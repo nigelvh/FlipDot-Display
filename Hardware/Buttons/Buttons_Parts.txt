@@ -1,0 +1,17 @@
+Partlist
+
+Exported from Buttons.sch at 7/29/24 21:16
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value                      Device                     Package                         Library  Sheet
+
+J3       HEADER-2X7                 HEADER-2X7                 3M-3000SERIES-HEADER-RIGHTANGLE Nigel    1
+SW1      SWITCH-MOMENTARY_MX1A_E1NW SWITCH-MOMENTARY_MX1A_E1NW CHERRY_MX1A_E1NW                Nigel    1
+SW2      SWITCH-MOMENTARY_MX1A_E1NW SWITCH-MOMENTARY_MX1A_E1NW CHERRY_MX1A_E1NW                Nigel    1
+SW3      SWITCH-MOMENTARY_MX1A_E1NW SWITCH-MOMENTARY_MX1A_E1NW CHERRY_MX1A_E1NW                Nigel    1
+SW4      SWITCH-MOMENTARY_MX1A_E1NW SWITCH-MOMENTARY_MX1A_E1NW CHERRY_MX1A_E1NW                Nigel    1
+SW5      SWITCH-MOMENTARY_MX1A_E1NW SWITCH-MOMENTARY_MX1A_E1NW CHERRY_MX1A_E1NW                Nigel    1
+SW6      SWITCH-MOMENTARY_MX1A_E1NW SWITCH-MOMENTARY_MX1A_E1NW CHERRY_MX1A_E1NW                Nigel    1
